@@ -1,3 +1,10 @@
+```diff
++ Assignment       DATE
++ Assignment 3 : October 6 , 2024.
+```
+> Samrat Baral  
+> Computer Architecture and Design
+
 ## Memory Hierarchy Design in High-Performance Computing Systems
 
 ### Introduction to Memory Hierarchy Design
